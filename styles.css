@@ -1,0 +1,33 @@
+#container{
+    background-color: white;
+    height: 200px;
+    border: 10px solid orange;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#display{
+    padding: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: green;
+    font-size: 30px;
+}
+
+body{
+    background-color:black;
+   
+}
+
+#refreshbutton{
+    border-radius: 10px;
+    color: black;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+    margin: 20px;
+    padding-right: 10px;
+    
+}
+
